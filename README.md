@@ -3,7 +3,7 @@
 ## Never To Late
 <!--  -->
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://bhh-bucket.oss-cn-beijing.aliyuncs.com/17f2913e564236a9402eca538d6d4c6e.gif" />
 
 ### About me
 > 争做一个技术人员
