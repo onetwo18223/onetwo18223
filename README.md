@@ -2,8 +2,7 @@
 
 ## Never To Late
 <!-- 
-<!--  --> --
-<!-- > -->
+<!--  -->
 <img align="right" alt="GIF" src="https://bhh-bucket.oss-cn-beijing.aliyuncs.com/17f2913e564236a9402eca538d6d4c6e.gif" />
 
 ### About me
