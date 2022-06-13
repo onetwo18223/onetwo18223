@@ -2,14 +2,14 @@
 
 > Never Too Late
 
-<!--  <img align="right" alt="GIF" src="https://bhh-bucket.oss-cn-beijing.aliyuncs.com/17f2913e564236a9402eca538d6d4c6e.gif" /> -->
+ <img align="right" alt="GIF" src="https://bhh-bucket.oss-cn-beijing.aliyuncs.com/17f2913e564236a9402eca538d6d4c6e.gif" />
 
 ### About me
 + Java后台开发
 
 
 ### 现在在做的事
-> 享受技术
+> 保持好奇
 + 向下深度学习技术
 + 完善项目
 
